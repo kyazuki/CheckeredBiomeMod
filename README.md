@@ -6,6 +6,9 @@ Minecraft: 1.15.2<br>
 Minecraft Forge: 31.0.0以上<br>
 http://files.minecraftforge.net/maven/net/minecraftforge/forge/index_1.15.2.html
 
+## 適用方法
+ワールド新規作成画面から、その他のワールド設定->ワールドタイプを"チェッカー"に指定してください。
+
 ## 概説
 バイオームがチャンク毎に変わります。<br>
 同種のバイオームばかり出現するのを回避するために、<br>
