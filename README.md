@@ -16,7 +16,7 @@ http://files.minecraftforge.net/maven/net/minecraftforge/forge/index_1.15.2.html
 
 ## configファイル
 Modを導入した状態で一回でも起動すると、configフォルダ内にcheckeredbiomemod-client.tomlが生成されます。<br>
-値の変更は次回起動以降の**ワールド生成時**に適用されます。
+値の変更は次回起動以降の**チャンク生成時**に適用されます。
 - enable_nether_biome
   - オーバーワールドにおいて、ネザーのバイオームを生成するかどうか。<br>
     trueかfalseで指定でき、デフォルトはfalseです。
